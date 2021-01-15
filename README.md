@@ -1,4 +1,4 @@
-# Real-Time, Machine Learning Approach to Predict Video-QoE for Encrypted Streaming Traffic in 5G Networks
+# Machine Learning Approach to Predict Video-QoE for Encrypted Streaming Traffic in 5G Networks
 
 Tools required to stream DASH video content
 
